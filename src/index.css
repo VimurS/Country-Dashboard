@@ -2,10 +2,3 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  font-family: 'Poppins', ui-sans-serif, system-ui, sans-serif;
-}
-
-.modal-backdrop {
-  background-color: rgba(0, 0, 0, 0.5);
-}
